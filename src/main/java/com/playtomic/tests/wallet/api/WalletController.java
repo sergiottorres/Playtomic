@@ -8,7 +8,6 @@ import com.playtomic.tests.wallet.domain.ChargeRequest;
 import com.playtomic.tests.wallet.domain.Messages;
 import com.playtomic.tests.wallet.domain.Wallet;
 import com.playtomic.tests.wallet.service.StripeService;
-import com.playtomic.tests.wallet.service.StripeServiceException;
 import com.playtomic.tests.wallet.service.WalletService;
 
 import org.slf4j.Logger;
